@@ -1,0 +1,10 @@
+Reference website:
+1. https://minjoos.tistory.com/6 
+2. https://stackoverflow.com/questions/48001598/why-do-we-need-to-call-zero-grad-in-pytorch
+3. https://stackoverflow.com/questions/60018578/what-does-model-eval-do-in-pytorch
+4. https://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-networks
+5. https://championprogram.tistory.com/273
+6. https://syj9700.tistory.com/37
+7. https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/
+8. https://stats.stackexchange.com/questions/329861/what-happens-when-a-model-is-having-more-parameters-than-training-samples
+9. https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/ 
